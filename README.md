@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 <img align=left" alt=""Coding width="400"  src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **MAUI.Net Framework**
+- 🌱 I’m currently learning **.Net Core**
 
 - 💬 Ask me about **.Net Core**
 
