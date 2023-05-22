@@ -1,6 +1,6 @@
 # Hey there👋, Meet an experienced Software Engineer 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=3000&color=00F716&width=435&lines=Ariful+Islam+Akash" alt="Ariful Islam Akash" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=3000&color=00F716&width=435&lines=Rahat+Sarker" alt="Rahat Sarker" />
 
  <p>- <i>An experienced Software Engineer with expertise in ASP.NET. I have previously worked with DataSoft System Bangladesh Ltd., where I successfully completed the development of a full Vehicle Information System. My ability to deliver high-quality software solutions, attention to detail, and dedication to meeting project deadlines has earned me a reputation as a reliable and skilled developer.</i></p>
 
