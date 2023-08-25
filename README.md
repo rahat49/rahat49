@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rahat</h1>
+<h1 align="center">Hi 👋, This is Rahat</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <p align="center">
 <a href="https://instagram.com/ra._.hat" target="blank"><img align="center" src="https://a0.anyrgb.com/pngimg/1202/1312/computer-professional-computer-operator-software-engineer-typing-freelancer-webmaster-operator-software-engineering-programmer-computer-programming.png" alt="ra._.hat" height="400" width="400" /></a>
 </p>
-- 🔭 I’m currently working on **POS System**
+- 🔭 I’m currently working on **Snowtex Group as a Software Engineer**
 
-- 🌱 I’m currently learning **MAUI.Net Framework**
+- 🌱 I’m currently learning **Unity Game Development using C#**
 
 - 💬 Ask me about **.Net Core**
 
