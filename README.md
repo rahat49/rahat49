@@ -93,13 +93,13 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=arifulislam23&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=rahat49&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  
 
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=arifulislam23"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahat49"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifulislam23&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat49&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
      
   </td>
