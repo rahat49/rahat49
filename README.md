@@ -38,11 +38,7 @@
  <h3> I'm Software Engineer from Bangaladesh.</h3>
 </p>
 
-- 🥀 Learning Angular
-
-- 🔭 SpaceX FanBoi, die for space😼
-
-- 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+- Learning Angular
 
 - I do fullstack and a bit of everything :heart:
 
@@ -51,7 +47,7 @@
 - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/rahat)
 
 <p align="center">
- <h4> Full Stack | Competitive Programming </h4>
+ <h4> Full Stack | Software Design | Competitive Programming </h4>
   </p>
 
 <!--  -->
