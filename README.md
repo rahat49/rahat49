@@ -47,7 +47,7 @@
 - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/rahat)
 
 <p align="center">
- <h4> Full Stack | Software Design | Competitive Programming </h4>
+ <h4> Software Design | Software Architecture | Full Stack |  </h4>
   </p>
 
 <!--  -->
